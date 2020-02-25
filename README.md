@@ -3,7 +3,7 @@
 
  # Step By Step Explanation (Available on 2-1-2019)
 
-  Video Tutorial : https://youtu.be/AHqIrJ_PlPY
+  Video Tutorial : https://youtu.be/AHqIrJ_PlPY  
   Blog Tutorial: https://www.codaffection.com/asp-net-core-tutorial/asp-net-core-mvc-crud-with-ef-core/
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=AHqIrJ_PlPY
