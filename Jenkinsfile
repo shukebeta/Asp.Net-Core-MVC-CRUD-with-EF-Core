@@ -8,7 +8,7 @@ pipeline {
     }
     stage('Deploy') {
       steps {
-        bat 'dotnet run'
+        bat 'dotnet run --project  ./ConsoleProject/ConsoleProject.csproj'
       }
     }
   }
