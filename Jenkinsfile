@@ -1,9 +1,13 @@
 pipeline {
   agent any
   stages {
-    stage('build') {
+    stage('Build') {
       steps {
         bat 'dotnet build'
+      }
+    stage('Deploy') {
+      steps {
+        bat 'dotnet run'
       }
     }
   }
