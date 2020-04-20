@@ -5,6 +5,7 @@ pipeline {
       steps {
         bat 'dotnet build'
       }
+    }
     stage('Deploy') {
       steps {
         bat 'dotnet run'
