@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh 'dotnet build'
+        sh 'echo "hello, World!"'
       }
     }
   }
