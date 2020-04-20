@@ -1,0 +1,4 @@
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/obj/Debug/netcoreapp3.1/Console.csproj.CoreCompileInputs.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs

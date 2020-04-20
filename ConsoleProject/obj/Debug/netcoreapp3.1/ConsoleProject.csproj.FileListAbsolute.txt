@@ -1,0 +1,13 @@
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.deps.json
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.runtimeconfig.json
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.runtimeconfig.dev.json
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.dll
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.pdb
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.csprojAssemblyReference.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.csproj.CoreCompileInputs.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.AssemblyInfoInputs.cache
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.AssemblyInfo.cs
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.dll
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.pdb
+/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.genruntimeconfig.cache

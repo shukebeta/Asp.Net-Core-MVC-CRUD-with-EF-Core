@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/Console.csproj",
-      "projectName": "Console",
-      "projectPath": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/Console.csproj",
+      "projectUniqueName": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/ConsoleProject.csproj",
+      "projectName": "ConsoleProject",
+      "projectPath": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/ConsoleProject.csproj",
       "packagesPath": "/home/davidwei/.nuget/packages/",
-      "outputPath": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/Console/obj/",
+      "outputPath": "/home/davidwei/Projects/Asp.Net-Core-MVC-CRUD-with-EF-Core/ConsoleProject/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
